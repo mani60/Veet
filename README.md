@@ -14,7 +14,7 @@ The diagram below explains how signalling over WebSocket happens on the frontend
 # Local Setup
 Clone the repo
 ```sh
-git clone https://github.com/megaconfidence/veet.git
+git clone https://github.com/mani60/Veet.git
 ```
 Install the client dependencies and start a local dev server
 ```sh
