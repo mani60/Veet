@@ -2,9 +2,6 @@
 
 A video call app built with [Cloudflare Pages](https://developers.cloudflare.com/pages/) and [Durable Objects](https://developers.cloudflare.com/durable-objects/).
 
-## Video tutorials 
-
-- [Build a Video Call App with Durable Objects](https://www.youtube.com/playlist?list=PLzfTyn6__SjgC2ty1_BAl0RGgr2jKjngz)
 
 ## How It Works
 
